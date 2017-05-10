@@ -1,5 +1,6 @@
 <template>
     <div class="product-list">
+        <div v-if="!products.data" class="spinner"></div>
         <ul>
             <li v-for="page in this.pagination">
                 <a href="javascript:void(0)" @click="setPagination(page == 1 ? 0 : page * limit)">
