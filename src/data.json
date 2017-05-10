@@ -1,0 +1,602 @@
+[
+    {
+        "price": "459.00",
+        "product": "Pizza",
+        "brand": "O'Kon and Sons",
+        "color": "orange"
+    },
+    {
+        "price": "759.00",
+        "product": "Car",
+        "brand": "Beahan, Zieme and Erdman",
+        "color": "orchid"
+    },
+    {
+        "price": "521.00",
+        "product": "Fish",
+        "brand": "Bergnaum - Green",
+        "color": "azure"
+    },
+    {
+        "price": "180.00",
+        "product": "Soap",
+        "brand": "Bruen Group",
+        "color": "gold"
+    },
+    {
+        "price": "896.00",
+        "product": "Chair",
+        "brand": "Nitzsche, Stamm and Mills",
+        "color": "maroon"
+    },
+    {
+        "price": "142.00",
+        "product": "Bacon",
+        "brand": "Funk - Cronin",
+        "color": "sky blue"
+    },
+    {
+        "price": "901.00",
+        "product": "Salad",
+        "brand": "Bartell Group",
+        "color": "yellow"
+    },
+    {
+        "price": "700.00",
+        "product": "Shirt",
+        "brand": "Wiza Group",
+        "color": "azure"
+    },
+    {
+        "price": "971.00",
+        "product": "Computer",
+        "brand": "Koepp and Sons",
+        "color": "blue"
+    },
+    {
+        "price": "543.00",
+        "product": "Keyboard",
+        "brand": "Kris and Sons",
+        "color": "blue"
+    },
+    {
+        "price": "15.00",
+        "product": "Shoes",
+        "brand": "Tillman LLC",
+        "color": "white"
+    },
+    {
+        "price": "202.00",
+        "product": "Sausages",
+        "brand": "Gaylord LLC",
+        "color": "white"
+    },
+    {
+        "price": "726.00",
+        "product": "Chair",
+        "brand": "Hintz LLC",
+        "color": "orange"
+    },
+    {
+        "price": "433.00",
+        "product": "Hat",
+        "brand": "Grimes Group",
+        "color": "lime"
+    },
+    {
+        "price": "176.00",
+        "product": "Car",
+        "brand": "Schinner Inc",
+        "color": "orchid"
+    },
+    {
+        "price": "894.00",
+        "product": "Shoes",
+        "brand": "Leuschke, Haag and Torp",
+        "color": "red"
+    },
+    {
+        "price": "998.00",
+        "product": "Computer",
+        "brand": "Davis, Schinner and Lebsack",
+        "color": "lavender"
+    },
+    {
+        "price": "28.00",
+        "product": "Sausages",
+        "brand": "Kling - Funk",
+        "color": "plum"
+    },
+    {
+        "price": "254.00",
+        "product": "Gloves",
+        "brand": "Shanahan, Pacocha and Armstrong",
+        "color": "azure"
+    },
+    {
+        "price": "265.00",
+        "product": "Fish",
+        "brand": "Boyle - Osinski",
+        "color": "violet"
+    },
+    {
+        "price": "281.00",
+        "product": "Cheese",
+        "brand": "VonRueden Inc",
+        "color": "orange"
+    },
+    {
+        "price": "501.00",
+        "product": "Fish",
+        "brand": "Bogan - Ziemann",
+        "color": "olive"
+    },
+    {
+        "price": "551.00",
+        "product": "Fish",
+        "brand": "Padberg Group",
+        "color": "gold"
+    },
+    {
+        "price": "820.00",
+        "product": "Table",
+        "brand": "Schaefer, Schmeler and Ward",
+        "color": "tan"
+    },
+    {
+        "price": "187.00",
+        "product": "Table",
+        "brand": "Schuppe Group",
+        "color": "silver"
+    },
+    {
+        "price": "422.00",
+        "product": "Shirt",
+        "brand": "Connelly - Feil",
+        "color": "pink"
+    },
+    {
+        "price": "950.00",
+        "product": "Tuna",
+        "brand": "Metz - Hartmann",
+        "color": "sky blue"
+    },
+    {
+        "price": "993.00",
+        "product": "Car",
+        "brand": "Crist - Kemmer",
+        "color": "sky blue"
+    },
+    {
+        "price": "741.00",
+        "product": "Soap",
+        "brand": "Hermiston - Hoeger",
+        "color": "silver"
+    },
+    {
+        "price": "224.00",
+        "product": "Bacon",
+        "brand": "Schuppe, Kautzer and Rowe",
+        "color": "orange"
+    },
+    {
+        "price": "943.00",
+        "product": "Mouse",
+        "brand": "Tromp - Weissnat",
+        "color": "indigo"
+    },
+    {
+        "price": "159.00",
+        "product": "Fish",
+        "brand": "Mohr LLC",
+        "color": "blue"
+    },
+    {
+        "price": "593.00",
+        "product": "Bacon",
+        "brand": "Gorczany - Yost",
+        "color": "lime"
+    },
+    {
+        "price": "878.00",
+        "product": "Soap",
+        "brand": "Bashirian, Hilpert and Morar",
+        "color": "mint green"
+    },
+    {
+        "price": "532.00",
+        "product": "Chips",
+        "brand": "Becker - Ortiz",
+        "color": "sky blue"
+    },
+    {
+        "price": "268.00",
+        "product": "Gloves",
+        "brand": "Rosenbaum - Price",
+        "color": "maroon"
+    },
+    {
+        "price": "21.00",
+        "product": "Keyboard",
+        "brand": "Emmerich, Schulist and Hudson",
+        "color": "grey"
+    },
+    {
+        "price": "637.00",
+        "product": "Soap",
+        "brand": "Corwin, Russel and Gibson",
+        "color": "cyan"
+    },
+    {
+        "price": "634.00",
+        "product": "Chair",
+        "brand": "Murray - Gulgowski",
+        "color": "turquoise"
+    },
+    {
+        "price": "662.00",
+        "product": "Cheese",
+        "brand": "Stiedemann and Sons",
+        "color": "lavender"
+    },
+    {
+        "price": "910.00",
+        "product": "Shirt",
+        "brand": "Kreiger LLC",
+        "color": "teal"
+    },
+    {
+        "price": "508.00",
+        "product": "Bike",
+        "brand": "Bergstrom Inc",
+        "color": "lavender"
+    },
+    {
+        "price": "694.00",
+        "product": "Chicken",
+        "brand": "Langosh - Hintz",
+        "color": "tan"
+    },
+    {
+        "price": "215.00",
+        "product": "Computer",
+        "brand": "Kling Group",
+        "color": "lavender"
+    },
+    {
+        "price": "709.00",
+        "product": "Shoes",
+        "brand": "Kertzmann - Bayer",
+        "color": "mint green"
+    },
+    {
+        "price": "50.00",
+        "product": "Pizza",
+        "brand": "Dare Inc",
+        "color": "mint green"
+    },
+    {
+        "price": "10.00",
+        "product": "Shirt",
+        "brand": "Cruickshank Inc",
+        "color": "violet"
+    },
+    {
+        "price": "707.00",
+        "product": "Chicken",
+        "brand": "Torp, Little and Sauer",
+        "color": "blue"
+    },
+    {
+        "price": "988.00",
+        "product": "Ball",
+        "brand": "Cassin, Aufderhar and Ryan",
+        "color": "black"
+    },
+    {
+        "price": "440.00",
+        "product": "Computer",
+        "brand": "Littel - Bins",
+        "color": "gold"
+    },
+    {
+        "price": "113.00",
+        "product": "Keyboard",
+        "brand": "Schowalter - Herman",
+        "color": "yellow"
+    },
+    {
+        "price": "730.00",
+        "product": "Shoes",
+        "brand": "Schoen LLC",
+        "color": "green"
+    },
+    {
+        "price": "434.00",
+        "product": "Cheese",
+        "brand": "Johnston Inc",
+        "color": "cyan"
+    },
+    {
+        "price": "346.00",
+        "product": "Chair",
+        "brand": "Ratke Inc",
+        "color": "green"
+    },
+    {
+        "price": "334.00",
+        "product": "Salad",
+        "brand": "Harris Group",
+        "color": "orange"
+    },
+    {
+        "price": "819.00",
+        "product": "Towels",
+        "brand": "Pouros - Haag",
+        "color": "plum"
+    },
+    {
+        "price": "609.00",
+        "product": "Tuna",
+        "brand": "McKenzie Group",
+        "color": "lavender"
+    },
+    {
+        "price": "643.00",
+        "product": "Mouse",
+        "brand": "Stokes, Conn and Corkery",
+        "color": "teal"
+    },
+    {
+        "price": "825.00",
+        "product": "Tuna",
+        "brand": "Greenfelder, Fisher and Murray",
+        "color": "violet"
+    },
+    {
+        "price": "197.00",
+        "product": "Fish",
+        "brand": "Spinka, Haley and O'Connell",
+        "color": "teal"
+    },
+    {
+        "price": "338.00",
+        "product": "Pizza",
+        "brand": "Hand, Lynch and Moore",
+        "color": "orchid"
+    },
+    {
+        "price": "261.00",
+        "product": "Fish",
+        "brand": "Considine LLC",
+        "color": "turquoise"
+    },
+    {
+        "price": "225.00",
+        "product": "Fish",
+        "brand": "Hansen and Sons",
+        "color": "orchid"
+    },
+    {
+        "price": "603.00",
+        "product": "Fish",
+        "brand": "Russel, Wolff and McGlynn",
+        "color": "fuchsia"
+    },
+    {
+        "price": "910.00",
+        "product": "Fish",
+        "brand": "Howe, Yost and Connelly",
+        "color": "plum"
+    },
+    {
+        "price": "727.00",
+        "product": "Fish",
+        "brand": "Stracke - Botsford",
+        "color": "indigo"
+    },
+    {
+        "price": "416.00",
+        "product": "Fish",
+        "brand": "Goodwin LLC",
+        "color": "orchid"
+    },
+    {
+        "price": "306.00",
+        "product": "Salad",
+        "brand": "Graham - Smith",
+        "color": "teal"
+    },
+    {
+        "price": "740.00",
+        "product": "Mouse",
+        "brand": "Nienow, Konopelski and Johnson",
+        "color": "fuchsia"
+    },
+    {
+        "price": "282.00",
+        "product": "Pizza",
+        "brand": "Dare - Dietrich",
+        "color": "magenta"
+    },
+    {
+        "price": "314.00",
+        "product": "Shoes",
+        "brand": "Mitchell and Sons",
+        "color": "orange"
+    },
+    {
+        "price": "932.00",
+        "product": "Gloves",
+        "brand": "Hammes Inc",
+        "color": "fuchsia"
+    },
+    {
+        "price": "14.00",
+        "product": "Salad",
+        "brand": "Kemmer - Lockman",
+        "color": "orange"
+    },
+    {
+        "price": "426.00",
+        "product": "Keyboard",
+        "brand": "Friesen, Breitenberg and Runte",
+        "color": "cyan"
+    },
+    {
+        "price": "865.00",
+        "product": "Chips",
+        "brand": "Kilback, Orn and Runolfsson",
+        "color": "plum"
+    },
+    {
+        "price": "147.00",
+        "product": "Ball",
+        "brand": "Nader and Sons",
+        "color": "lime"
+    },
+    {
+        "price": "550.00",
+        "product": "Sausages",
+        "brand": "Schmitt, Emmerich and Johnson",
+        "color": "pink"
+    },
+    {
+        "price": "802.00",
+        "product": "Table",
+        "brand": "Casper - King",
+        "color": "violet"
+    },
+    {
+        "price": "157.00",
+        "product": "Pants",
+        "brand": "Welch, Bergnaum and Tillman",
+        "color": "olive"
+    },
+    {
+        "price": "48.00",
+        "product": "Fish",
+        "brand": "Kuphal Inc",
+        "color": "green"
+    },
+    {
+        "price": "455.00",
+        "product": "Car",
+        "brand": "Pfannerstill - Runolfsson",
+        "color": "lavender"
+    },
+    {
+        "price": "862.00",
+        "product": "Pizza",
+        "brand": "Reilly LLC",
+        "color": "violet"
+    },
+    {
+        "price": "782.00",
+        "product": "Bike",
+        "brand": "Jast and Sons",
+        "color": "green"
+    },
+    {
+        "price": "640.00",
+        "product": "Tuna",
+        "brand": "Abernathy Group",
+        "color": "turquoise"
+    },
+    {
+        "price": "446.00",
+        "product": "Computer",
+        "brand": "Grady, Sauer and Pollich",
+        "color": "cyan"
+    },
+    {
+        "price": "387.00",
+        "product": "Ball",
+        "brand": "Hickle, Kuhlman and Crona",
+        "color": "indigo"
+    },
+    {
+        "price": "737.00",
+        "product": "Shirt",
+        "brand": "Streich - Kilback",
+        "color": "orange"
+    },
+    {
+        "price": "270.00",
+        "product": "Chair",
+        "brand": "Fay and Sons",
+        "color": "azure"
+    },
+    {
+        "price": "181.00",
+        "product": "Shirt",
+        "brand": "Mraz - Bogisich",
+        "color": "turquoise"
+    },
+    {
+        "price": "828.00",
+        "product": "Mouse",
+        "brand": "Gutmann LLC",
+        "color": "purple"
+    },
+    {
+        "price": "766.00",
+        "product": "Hat",
+        "brand": "Littel and Sons",
+        "color": "lavender"
+    },
+    {
+        "price": "879.00",
+        "product": "Hat",
+        "brand": "Streich - Johnson",
+        "color": "green"
+    },
+    {
+        "price": "587.00",
+        "product": "Bacon",
+        "brand": "Predovic, Roberts and Zboncak",
+        "color": "violet"
+    },
+    {
+        "price": "465.00",
+        "product": "Ball",
+        "brand": "Mills, Ritchie and Davis",
+        "color": "ivory"
+    },
+    {
+        "price": "856.00",
+        "product": "Chicken",
+        "brand": "Lindgren, Larkin and Stracke",
+        "color": "turquoise"
+    },
+    {
+        "price": "757.00",
+        "product": "Soap",
+        "brand": "Altenwerth LLC",
+        "color": "magenta"
+    },
+    {
+        "price": "132.00",
+        "product": "Table",
+        "brand": "Conroy Group",
+        "color": "green"
+    },
+    {
+        "price": "659.00",
+        "product": "Chips",
+        "brand": "Rippin, Turcotte and Dickinson",
+        "color": "silver"
+    },
+    {
+        "price": "196.00",
+        "product": "Towels",
+        "brand": "Little Group",
+        "color": "ivory"
+    },
+    {
+        "price": "162.00",
+        "product": "Salad",
+        "brand": "Russel, Pouros and Wunsch",
+        "color": "mint green"
+    }
+]
