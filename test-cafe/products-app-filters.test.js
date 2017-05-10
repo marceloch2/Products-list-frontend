@@ -21,12 +21,6 @@ test('Check if H1 exist', async t => {
     await t.expect(header).ok();
 });
 
-test('Check if H1 exist', async t => {
-    const header = Selector('#main-wrapper h1').exists;
-
-    await t.expect(header).ok();
-});
-
 test('Check if H1 have the right text', async t => {
     const header = Selector('#main-wrapper h1').withText("Products");
 

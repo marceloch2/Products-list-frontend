@@ -3,7 +3,7 @@ import Vue from 'vue';
 import Vuex from 'vuex';
 import Actions from './actions';
 
-import { SET_PRODUCTS, RESET_PRODUCTS, SET_FILTER, SET_LIMIT } from './mutations-types';
+import { SET_PRODUCTS, RESET_PRODUCTS, SET_FILTER, SET_LIMIT, SET_CURRENT_PRODUCT } from './mutations-types';
 import productsJson from '@/data.json';
 
 Vue.use(Vuex);
@@ -12,8 +12,10 @@ const debug = process.env.NODE_ENV !== 'production';
 
 export default new Vuex.Store({
     state: {
+        apiUrl: 'http://beate-uhse-server.herokuapp.com',
         limit: 10,
         products: [],
+        currentProduct: [],
         filterObj: {
             filterField: '',
             filterValue: ''
@@ -28,6 +30,7 @@ export default new Vuex.Store({
 
     getters: {
         products: state => state.products,
+        getCurrentProduct: state => state.currentProduct,
         limit: state => state.limit,
 
         getTotalProducts: state => state.products.length,
@@ -36,12 +39,19 @@ export default new Vuex.Store({
         getAllColors: state => state.uniqueColors,
         getAllBrands: state => state.uniqueBrands,
 
-        getFilterObj: state => state.filterObj
+        getFilterObj: state => state.filterObj,
+
+        getApiUrl: state => state.apiUrl
+
     },
 
     mutations: {
         [SET_PRODUCTS] (state, products) {
             state.products = products.data;
+        },
+
+        [SET_CURRENT_PRODUCT] (state, product) {
+            state.currentProduct = product.data;
         },
 
         [RESET_PRODUCTS] (state) {

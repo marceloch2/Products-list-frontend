@@ -53,6 +53,10 @@ export default {
             return Store.getters.products;
         },
 
+        getApiUrl () {
+            return Store.getters.apiUrl;
+        },
+
         pagination () {
             let pages = parseInt(Math.ceil(this.products.total / this.limit));
 

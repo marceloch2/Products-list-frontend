@@ -7,12 +7,22 @@ export default {
         let filterQuery = field && value && (value && value.length) ? '&' + field + '=' + value : '';
         let limit = '$skip=' + state.limit;
 
-        Axios.get('http://localhost:3030/products?' + limit + filterQuery)
+        Axios.get(`${state.apiUrl}/products?${limit}${filterQuery}`)
         .then(function (response) {
             commit('SET_PRODUCTS', response);
         })
         .catch(function (error) {
-            console.log(error);
+            throw error;
+        });
+    },
+
+    getProductById ({commit, state}, id) {
+        Axios.get(`${state.apiUrl}/products/${id}`)
+        .then(function (response) {
+            commit('SET_CURRENT_PRODUCT', response);
+        })
+        .catch(function (error) {
+            throw error;
         });
     },
 

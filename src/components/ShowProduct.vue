@@ -58,12 +58,6 @@ import Store from '@/store/index.js';
 import Axios from 'axios';
 
 export default {
-    data () {
-        return {
-            product: {}
-        }
-    },
-
     watch : {
         '$route.params.id' : function (newVal) {
             if (newVal) {
@@ -73,8 +67,8 @@ export default {
     },
 
     computed : {
-        rootVm () {
-            return this.$root;
+        product () {
+            return Store.getters.getCurrentProduct;
         }
     },
 
@@ -91,13 +85,7 @@ export default {
     methods: {
         getProductsById (id) {
             var _self = this;
-            Axios.get('http://localhost:3030/products/' + id)
-            .then(function (response) {
-                _self.product = response.data;
-            })
-            .catch(function (error) {
-                console.log(error);
-            });
+            Store.dispatch('getProductById', id);
         }
     }
 }
