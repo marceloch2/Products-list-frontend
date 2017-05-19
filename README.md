@@ -28,7 +28,7 @@ So you can test the front without running the server locally.
 
 But you can check the server side code in github.
 ```
-https://github.com/marceloch2/BeateUhse-server.git
+https://github.com/marceloch2/Products-list-featherjs-server
 ```
 
 ####### Front End Unit Test #####
