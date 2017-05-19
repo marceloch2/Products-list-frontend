@@ -21,12 +21,11 @@ npm run test-cafe
 For the front end i decided to use VUE and VUEX for Single State Management,
 following the best standard using separation of concerns.
 
-We dispatch an Action, the Action Commit for Mutation and the components ask data for Vuex store using Getters.
+We dispatch an Action, the Action commit for Mutation and the components ask data for Vuex store using Getters.
 
-The Server/REST side i did using Node framework Feather.js, for convenience i have the front end linked to a Node.js Heroku.
-So you can test the front without running the server locally.
+The Server/REST side i did using Node framework Feather.js, for convenience i have the front end linked to a Node.js Heroku server, so you don't need to clone and setup the server side locally.
 
-But you can check the server side code in github.
+But you can check the server side code in github also.
 ```
 https://github.com/marceloch2/Products-list-featherjs-server
 ```
@@ -86,8 +85,7 @@ SideBar
 ```
 
 ####### Front End E2E Test #####
-Running four browsers to test all.
-Take special attention running test-cafe to see the page resize for Iphone 6 screen size testing responsiveness
+Running four browsers.
 
 ```
 Running tests in:
